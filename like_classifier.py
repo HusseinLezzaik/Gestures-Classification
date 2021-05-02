@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thumbs Classification for Thumbs Up/Down using Transfer Learning from VGG
 """
