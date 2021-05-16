@@ -15,7 +15,7 @@ In this repo, you'll find :
 1.  Clone repo: `git clone https://github.com/HusseinLezzaik/Gestures-Classification.git`
 2.  Install dependencies:
     ```
-    conda create -n gestures-classification python=3.7
+    conda create -n gestures-classification python=3.8
     conda activate gestures-classification
     pip install -r requirements.txt
     ```
